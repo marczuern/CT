@@ -13,6 +13,10 @@ table
   text-align: right;
 }
 
+.oben{
+  background-color: #D3d3d3;
+}
+
 td {
   /*display: block;*/
   width: 100px;
@@ -53,4 +57,3 @@ body.bg{
 .rund{
   border-radius: 10px 10px 10px 10px;
 }
-
