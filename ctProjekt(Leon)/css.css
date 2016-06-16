@@ -32,11 +32,17 @@ a {
 }
 
 body.main{
-  background-color: #FFFFFF;
+  background-color: #686868 ;
 }
 
 body.bg{
-  background: #DBDBDB;
+  background: #626262;
 }
 
-/*TEST*/
+#ueberschrift{
+  text-align: center;
+  font-family: Impact;
+  font-size: 60px;
+  margin-top:20px;
+
+}
