@@ -9,6 +9,9 @@ table
   margin-left: 25%;
 }
 
+.obenlinks{
+  text-align: right;
+}
 
 td {
   /*display: block;*/
@@ -47,7 +50,6 @@ body.bg{
 
 }
 
-frameset{
-  NORESIZE;
-  
+.rund{
+  border-radius: 10px 10px 10px 10px;
 }
