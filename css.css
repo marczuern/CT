@@ -38,6 +38,11 @@ a {
   text-decoration: none;
 }
 
+a:hover{
+  background-color:yellow;
+  /*Farbe die Links anehmen wenn man mit der maus über sie hovert*/
+}
+
 .main{
   background-color: #FFFFFF ;
 }
