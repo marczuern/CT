@@ -62,7 +62,6 @@ a:hover{
   font-family: "Courier New";
   font-size: 65px;
   margin-top:45px;
-
 }
 
 .rund {
@@ -75,6 +74,8 @@ a:hover{
 .eckenrundung {
 width: 100%;
 min-height: 100%;
+padding-left:2em;
+padding-right:2em;
 box-sizing: border-box;
 border-radius: 45px 45px 45px 45px;
 background: #626262;
