@@ -11,6 +11,8 @@ table
 
 .text{
   color: black;
+  text-align: left;
+  font-weight: normal;
 }
 
 .obenlinks{
