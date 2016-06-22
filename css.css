@@ -13,6 +13,8 @@ table
   color: black;
   text-align: left;
   font-weight: normal;
+  font-family: "Arial";
+  font-size: 16;
 }
 
 .obenlinks{
