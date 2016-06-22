@@ -72,6 +72,7 @@ a:hover{
 
 .eckenrundung {
 width: 100%;
+min-height: 100%;
 box-sizing: border-box;
 border-radius: 45px 45px 45px 45px;
 background: #626262;
