@@ -37,7 +37,7 @@ td {
   text-decoration: none;
 }
 
-a {
+a.navi {
   display: block;
   /background-color: #DBDBDB;
   text-align: center;
@@ -46,9 +46,15 @@ a {
   text-decoration: none;
 }
 
-a:hover{
+a.navi:hover{
   background-color:yellow;
   /*Farbe die Links anehmen wenn man mit der maus über sie hovert*/
+}
+
+a{
+  text-align: right;
+  text-decoration: none;
+  color: black;
 }
 
 .main{
