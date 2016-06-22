@@ -9,6 +9,10 @@ table
   margin-left: 25%;
 }
 
+.text{
+  color: black;
+}
+
 .obenlinks{
   text-align: right;
 }
