@@ -37,6 +37,11 @@ td {
   text-decoration: none;
 }
 
+.support{
+line-height:5.5;
+
+}
+
 a.navi {
   display: block;
   /background-color: #DBDBDB;
