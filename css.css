@@ -104,7 +104,26 @@ background: #626262;
   margin-top:65px;
   margin-bottom: 65px
 }
-.trennen_support
+
+#impressumBild
+{
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+#impressumText
+{
+  color: black;
+  text-align: left;
+  font-weight: normal;
+  font-family: "Arial";
+  font-size: 20;
+}
+
+#impressumListe.ul
+{
+  list-style: none;
+}.trennen_support
 {
   color:white;
   width:85%;
