@@ -122,12 +122,9 @@ background: #626262;
 
 #impressumListe
 {
-<<<<<<< HEAD
-  list-style: none;
+list-style-type: none;
 }
-=======
-    list-style-type: none;
-}
+
 }.trennen_support
 {
   color:white;
@@ -135,4 +132,3 @@ background: #626262;
   margin-top:20px;
   margin-bottom: 20px
 }
->>>>>>> origin/master
