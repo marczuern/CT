@@ -105,9 +105,9 @@ background: #626262;
   margin-bottom: 65px
 }
 
-#impressumBild
+.BildAbstand
 {
-  margin-top:20px;
+  margin-top:50px;
   margin-bottom: 20px;
 }
 
@@ -120,13 +120,7 @@ background: #626262;
   font-size: 20;
 }
 
-#impressumListe.ul
+#impressumListe
 {
   list-style: none;
-}.trennen_support
-{
-  color:white;
-  width:85%;
-  margin-top:20px;
-  margin-bottom: 20px
 }
