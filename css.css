@@ -120,9 +120,10 @@ background: #626262;
   font-size: 20;
 }
 
-#impressumListe.ul
+#impressumListe
 {
-  list-style: none;
+    list-style-type: none;
+}
 }.trennen_support
 {
   color:white;
